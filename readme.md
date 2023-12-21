@@ -15,7 +15,7 @@ Save the file with a .py extension, for example, main.py.
 Open a terminal or command prompt.
 Navigate to the directory where you saved main.py.
 Run the script using Python:
-python3 cartpole_trainer.py
+python3 main.py
 
 ## Understanding the Script
 
